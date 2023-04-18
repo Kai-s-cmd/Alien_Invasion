@@ -8,5 +8,10 @@ The aliens attack in waves, becoming progressively more difficult to defeat as t
 ![Screenshot from 2023-04-18 19-26-20](https://user-images.githubusercontent.com/93368311/232834782-374427ba-6a70-4057-8af0-43122bca80d0.png)
 
 ## Requirments
+1) Python3
+2) Pygame
 
-`python3 -m pip install -U pygame --user`
+## Installing
+1) Download python3 from [here](https://www.python.org/).
+2) Use command for install pygame `python3 -m pip install -U pygame --user`.
+3) Open file *alien_invasion.py*
